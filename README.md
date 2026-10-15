@@ -1,2 +1,7 @@
-# michaelyang
-Michael Yang (양민정) interactive research: mySimon, investing, and recent activities. Korean 10-minute visual essay.
+# Michael Yang
+
+English interactive research on Michael Yang: mySimon, investing, and recent activities.
+
+Live site: https://bookseal.github.io/michaelyang/
+
+The research reflects sources reviewed on October 13, 2026.
